@@ -1,9 +1,13 @@
-#Node.js e Express
-Este repositório foi criado para aprender a utilizar Node.js e o framework Express.
+<h2>
+Node.js e Express
+</h2>
 
+<h3>
+Este repositório foi criado para aprender a utilizar Node.js e o framework Express.
+</h3>
 Para executar esses aplicativos, você precisa ter o Node.js instalado em sua máquina. Você pode baixá-lo em https://nodejs.org/.
 
-Como usar
+<h2>Como usar</h2>
 Clone este repositório para a sua máquina local.
 Navegue até o diretório do aplicativo que você deseja executar.
 Execute o comando npm install para instalar as dependências do aplicativo.
